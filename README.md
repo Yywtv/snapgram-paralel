@@ -20,6 +20,10 @@ atau dengan docker:
 
 - Docker
 
+```bash
+git clone https://github.com/Yywtv/snapgram-paralel.git
+```
+
 ## Setup
 
 ### Kompilasi
